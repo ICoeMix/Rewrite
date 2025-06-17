@@ -1,6 +1,6 @@
-#!name=波波老师自用Premium
-#!desc=波波老师自用Premium
-#!category=😍BOBO Premium
+#!name= 🍁🍁🍁Unlock Premium Collection
+#!desc=🍁🍁🍁Unlock Premium Collection
+#!category= Premium
 #!homepage=https://github.com/BOBOLAOSHIV587/Rules
 
 
@@ -142,7 +142,7 @@ http-response ^https:\/\/api2\.vilipix\.com\/api\/v\d\/user\/current script-path
 
 
 # > ChatGPT 解锁 Plus 订阅
-http-response ^https?:\/\/ios\.chat\.openai\.com\/backend-api\/(accounts\/check\/|models) script-path=https://raw.githubusercontent.com/BOBOLAOSHIV587/Rules/main/JS/ChatGPT/JS/ChatGPTPlusCrack.js, requires-body=true, timeout=60, tag=ChatGPTPlusCrack
+# http-response ^https?:\/\/ios\.chat\.openai\.com\/backend-api\/(accounts\/check\/|models) script-path=https://raw.githubusercontent.com/BOBOLAOSHIV587/Rules/main/JS/ChatGPT/JS/ChatGPTPlusCrack.js, requires-body=true, timeout=60, tag=ChatGPTPlusCrack
 
 
 # > Craft解锁Premium
